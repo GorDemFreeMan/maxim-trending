@@ -2,121 +2,220 @@
   {
     "rank": 1,
     "name": "nexu-io/open-design",
-    "stars": 16962,
-    "spd": 3301.7,
     "url": "https://github.com/nexu-io/open-design",
-    "lang": "TypeScript"
+    "stars": 17006,
+    "spd": 3302.1,
+    "forks": 1917,
+    "watchers": 17006,
+    "lang": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-design",
+      "byok",
+      "claude"
+    ],
+    "desc_ru": "Проект «open-design» — 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.. Относится к сфере искусственного интеллекта и языковых моделей. Позиционируется как открытая альтернатива проприетарным решениям — никаких лицензионных ограничений. Предоставляет удобный интерфейс командной строки для автоматизации рабочих процессов. Использует Model Context Protocol (MCP) — современный стандарт взаимодействия AI-агентов с внешними инструментами. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 5.2
   },
   {
     "rank": 2,
     "name": "theori-io/copy-fail-CVE-2026-31431",
-    "stars": 2944,
-    "spd": 772.5,
     "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
-    "lang": "Python"
+    "stars": 2945,
+    "spd": 770.2,
+    "forks": 612,
+    "watchers": 2945,
+    "lang": "Python",
+    "topics": [],
+    "desc_ru": "Написан на Python — подходит для быстрого внедрения и расширения. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 3.8
   },
   {
     "rank": 3,
     "name": "darrylmorley/whatcable",
-    "stars": 1315,
-    "spd": 658.0,
     "url": "https://github.com/darrylmorley/whatcable",
-    "lang": "Swift"
+    "stars": 1319,
+    "spd": 655.8,
+    "forks": 30,
+    "watchers": 1319,
+    "lang": "Swift",
+    "topics": [
+      "apple-silicon",
+      "hardware-info",
+      "iokit",
+      "mac-app",
+      "macos"
+    ],
+    "desc_ru": "Проект «whatcable» — macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 2.0
   },
   {
     "rank": 4,
     "name": "cursor/cookbook",
-    "stars": 3180,
-    "spd": 532.7,
     "url": "https://github.com/cursor/cookbook",
-    "lang": "TypeScript"
+    "stars": 3182,
+    "spd": 531.9,
+    "forks": 368,
+    "watchers": 3182,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": "Веб-ориентированный проект на TypeScript/JavaScript. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 6.0
   },
   {
     "rank": 5,
     "name": "willchen96/mike",
-    "stars": 1475,
-    "spd": 411.5,
     "url": "https://github.com/willchen96/mike",
-    "lang": "TypeScript"
+    "stars": 1478,
+    "spd": 410.8,
+    "forks": 391,
+    "watchers": 1478,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": "Проект «mike» — oSS AI Legal Platform. Веб-ориентированный проект на TypeScript/JavaScript. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 3.6
   },
   {
     "rank": 6,
     "name": "mattpocock/dictionary-of-ai-coding",
-    "stars": 732,
-    "spd": 386.7,
     "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-    "lang": "TypeScript"
+    "stars": 733,
+    "spd": 384.6,
+    "forks": 104,
+    "watchers": 733,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": "Проект «dictionary-of-ai-coding» — aI coding jargon, explained in plain English.. Веб-ориентированный проект на TypeScript/JavaScript. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 1.9
   },
   {
     "rank": 7,
     "name": "denuitt1/mhr-cfw",
-    "stars": 1737,
-    "spd": 322.5,
     "url": "https://github.com/denuitt1/mhr-cfw",
-    "lang": "Python"
+    "stars": 1740,
+    "spd": 322.3,
+    "forks": 196,
+    "watchers": 1740,
+    "lang": "Python",
+    "topics": [],
+    "desc_ru": "Проект «mhr-cfw» — a Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.. Написан на Python — подходит для быстрого внедрения и расширения. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 5.4
   },
   {
     "rank": 8,
     "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-    "stars": 730,
-    "spd": 252.0,
     "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-    "lang": null
+    "stars": 737,
+    "spd": 253.3,
+    "forks": 278,
+    "watchers": 737,
+    "lang": "—",
+    "topics": [],
+    "desc_ru": "Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 2.9
   },
   {
     "rank": 9,
     "name": "t8y2/dbx",
-    "stars": 727,
-    "spd": 173.2,
     "url": "https://github.com/t8y2/dbx",
-    "lang": "Vue"
+    "stars": 731,
+    "spd": 173.7,
+    "forks": 39,
+    "watchers": 731,
+    "lang": "Vue",
+    "topics": [
+      "clickhouse",
+      "database",
+      "database-client",
+      "database-management",
+      "duckdb"
+    ],
+    "desc_ru": "Проект «dbx» — lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.. Предоставляет удобный интерфейс командной строки для автоматизации рабочих процессов. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 4.2
   },
   {
     "rank": 10,
     "name": "b-nnett/codex-plusplus",
-    "stars": 840,
-    "spd": 172.1,
     "url": "https://github.com/b-nnett/codex-plusplus",
-    "lang": "TypeScript"
+    "stars": 840,
+    "spd": 171.7,
+    "forks": 40,
+    "watchers": 840,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": "Проект «codex-plusplus» — codex++ tweak system for the Codex desktop app. Веб-ориентированный проект на TypeScript/JavaScript. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 4.9
   },
   {
     "rank": 11,
     "name": "Fokkyp/SoftwareCopyright-Skill",
-    "stars": 643,
-    "spd": 164.9,
     "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-    "lang": "Python"
+    "stars": 643,
+    "spd": 164.3,
+    "forks": 141,
+    "watchers": 643,
+    "lang": "Python",
+    "topics": [],
+    "desc_ru": "Проект «SoftwareCopyright-Skill» — 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务. Написан на Python — подходит для быстрого внедрения и расширения. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 3.9
   },
   {
     "rank": 12,
     "name": "GENEXIS-AI/chromex",
-    "stars": 756,
-    "spd": 155.6,
     "url": "https://github.com/GENEXIS-AI/chromex",
-    "lang": "TypeScript"
+    "stars": 756,
+    "spd": 155.2,
+    "forks": 63,
+    "watchers": 756,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": "Проект «chromex» — a Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.. Веб-ориентированный проект на TypeScript/JavaScript. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 4.9
   },
   {
     "rank": 13,
     "name": "DanOps-1/Gpt-Agreement-Payment",
-    "stars": 921,
-    "spd": 149.4,
     "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-    "lang": "Python"
+    "stars": 922,
+    "spd": 149.3,
+    "forks": 410,
+    "watchers": 922,
+    "lang": "Python",
+    "topics": [
+      "adversarial-ml",
+      "anti-fraud",
+      "bug-bounty",
+      "captcha-solver",
+      "chatgpt"
+    ],
+    "desc_ru": "Проект «Gpt-Agreement-Payment» — chatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research. Написан на Python — подходит для быстрого внедрения и расширения. Предоставляет удобный интерфейс командной строки для автоматизации рабочих процессов. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 6.2
   },
   {
     "rank": 14,
     "name": "ka-pi-ba-la/AIbijia",
-    "stars": 655,
-    "spd": 113.3,
     "url": "https://github.com/ka-pi-ba-la/AIbijia",
-    "lang": null
+    "stars": 655,
+    "spd": 113.0,
+    "forks": 29,
+    "watchers": 655,
+    "lang": "—",
+    "topics": [],
+    "desc_ru": "Проект «AIbijia» — 分享便宜靠谱Token，抹平信息差. Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 5.8
   },
   {
     "rank": 15,
     "name": "deepseek-ai/awesome-deepseek-agent",
-    "stars": 614,
-    "spd": 101.6,
     "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-    "lang": null
+    "stars": 615,
+    "spd": 101.5,
+    "forks": 59,
+    "watchers": 615,
+    "lang": "—",
+    "topics": [],
+    "desc_ru": "Подходит разработчикам, DevOps-инженерам и техническим энтузиастам.",
+    "created_days": 6.1
   }
 ]
