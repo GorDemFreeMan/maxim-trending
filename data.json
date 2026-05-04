@@ -3,10 +3,10 @@
     "rank": 1,
     "name": "nexu-io/open-design",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 17013,
-    "spd": 3301.0,
-    "forks": 1920,
-    "watchers": 17013,
+    "stars": 20562,
+    "spd": 3366.4,
+    "forks": 2274,
+    "watchers": 20562,
     "lang": "TypeScript",
     "topics": [
       "agent-skills",
@@ -16,29 +16,29 @@
       "claude"
     ],
     "desc_ru": "Открытая альтернатива to Anthropic's Claude Design. Утилита командной строки. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на TypeScript.",
-    "created_days": 5.2
+    "created_days": 6.1
   },
   {
     "rank": 2,
     "name": "theori-io/copy-fail-CVE-2026-31431",
     "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
-    "stars": 2945,
-    "spd": 769.4,
-    "forks": 613,
-    "watchers": 2945,
+    "stars": 3057,
+    "spd": 639.3,
+    "forks": 636,
+    "watchers": 3057,
     "lang": "Python",
     "topics": [],
     "desc_ru": " Можно использовать в своих проектах для ускорения разработки и автоматизации. Написан на Python.",
-    "created_days": 3.8
+    "created_days": 4.8
   },
   {
     "rank": 3,
     "name": "darrylmorley/whatcable",
     "url": "https://github.com/darrylmorley/whatcable",
-    "stars": 1320,
-    "spd": 655.0,
-    "forks": 30,
-    "watchers": 1320,
+    "stars": 1507,
+    "spd": 507.5,
+    "forks": 33,
+    "watchers": 1507,
     "lang": "Swift",
     "topics": [
       "apple-silicon",
@@ -48,81 +48,81 @@
       "macos"
     ],
     "desc_ru": "Инструмент на базе искусственного интеллекта. Ключевые возможности: **Charging diagnostic:** when something's plugged in, a banner identifies the bottleneck:; *\"Cable is limiting charging speed\"* (cable rated below the charger); *\"Charging at 30W (charger can do up to 96W)\"* (Mac is asking for less, e.g. battery near full). Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на Swift.",
-    "created_days": 2.0
+    "created_days": 3.0
   },
   {
     "rank": 4,
     "name": "cursor/cookbook",
     "url": "https://github.com/cursor/cookbook",
-    "stars": 3182,
-    "spd": 531.6,
-    "forks": 368,
-    "watchers": 3182,
+    "stars": 3300,
+    "spd": 475.5,
+    "forks": 382,
+    "watchers": 3300,
     "lang": "TypeScript",
     "topics": [],
     "desc_ru": "Утилита командной строки. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на TypeScript.",
-    "created_days": 6.0
+    "created_days": 6.9
   },
   {
     "rank": 5,
     "name": "willchen96/mike",
     "url": "https://github.com/willchen96/mike",
-    "stars": 1479,
-    "spd": 410.7,
-    "forks": 391,
-    "watchers": 1479,
+    "stars": 1742,
+    "spd": 382.4,
+    "forks": 455,
+    "watchers": 1742,
     "lang": "TypeScript",
     "topics": [],
     "desc_ru": "Инструмент на базе искусственного интеллекта. Ключевые возможности: `frontend/` - Next.js application; `backend/` - Express API, Supabase access, document processing, and migrations; `backend/migrations/000_one_shot_schema.sql` - one-shot Supabase schema for fresh databases. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на TypeScript.",
-    "created_days": 3.6
+    "created_days": 4.6
   },
   {
     "rank": 6,
-    "name": "mattpocock/dictionary-of-ai-coding",
-    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-    "stars": 735,
-    "spd": 384.9,
-    "forks": 105,
-    "watchers": 735,
-    "lang": "TypeScript",
-    "topics": [],
-    "desc_ru": "Инструмент на базе искусственного интеллекта. Ключевые возможности: [Model](#model); [Parameters](#parameters); [Training](#training). Можно использовать в своих проектах для ускорения разработки и автоматизации. Написан на TypeScript.",
-    "created_days": 1.9
-  },
-  {
-    "rank": 7,
     "name": "denuitt1/mhr-cfw",
     "url": "https://github.com/denuitt1/mhr-cfw",
-    "stars": 1741,
-    "spd": 322.2,
-    "forks": 196,
-    "watchers": 1741,
+    "stars": 1988,
+    "spd": 312.7,
+    "forks": 211,
+    "watchers": 1988,
     "lang": "Python",
     "topics": [],
     "desc_ru": "Инструмент на базе искусственного интеллекта. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на Python.",
-    "created_days": 5.4
+    "created_days": 6.4
+  },
+  {
+    "rank": 7,
+    "name": "mattpocock/dictionary-of-ai-coding",
+    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "stars": 872,
+    "spd": 304.5,
+    "forks": 117,
+    "watchers": 872,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": "Инструмент на базе искусственного интеллекта. Ключевые возможности: [Model](#model); [Parameters](#parameters); [Training](#training). Можно использовать в своих проектах для ускорения разработки и автоматизации. Написан на TypeScript.",
+    "created_days": 2.9
   },
   {
     "rank": 8,
     "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
     "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-    "stars": 739,
-    "spd": 253.7,
-    "forks": 279,
-    "watchers": 739,
+    "stars": 835,
+    "spd": 215.9,
+    "forks": 308,
+    "watchers": 835,
     "lang": "—",
     "topics": [],
-    "desc_ru": " Можно использовать в своих проектах для ускорения разработки и автоматизации.",
-    "created_days": 2.9
+    "desc_ru": " Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов.",
+    "created_days": 3.9
   },
   {
     "rank": 9,
     "name": "t8y2/dbx",
     "url": "https://github.com/t8y2/dbx",
-    "stars": 731,
-    "spd": 173.5,
-    "forks": 39,
-    "watchers": 731,
+    "stars": 784,
+    "spd": 151.7,
+    "forks": 45,
+    "watchers": 784,
     "lang": "Vue",
     "topics": [
       "clickhouse",
@@ -132,55 +132,42 @@
       "duckdb"
     ],
     "desc_ru": "Утилита командной строки. Ключевые возможности: **Schema browser** — Databases, schemas, tables, columns, indexes, foreign keys, triggers, with sidebar search & pin; **AI SQL assistant** — Natural language to SQL, explain, optimize, fix errors (Claude / OpenAI); **Export** — CSV, JSON, Markdown. Упрощает работу с данными — можно использовать для аналитики и хранения информации. Написан на Vue.",
-    "created_days": 4.2
+    "created_days": 5.2
   },
   {
     "rank": 10,
     "name": "b-nnett/codex-plusplus",
     "url": "https://github.com/b-nnett/codex-plusplus",
-    "stars": 840,
-    "spd": 171.5,
-    "forks": 40,
-    "watchers": 840,
+    "stars": 861,
+    "spd": 147.1,
+    "forks": 42,
+    "watchers": 861,
     "lang": "TypeScript",
     "topics": [],
     "desc_ru": "Утилита командной строки. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на TypeScript.",
-    "created_days": 4.9
+    "created_days": 5.9
   },
   {
     "rank": 11,
     "name": "Fokkyp/SoftwareCopyright-Skill",
     "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-    "stars": 643,
-    "spd": 164.2,
-    "forks": 141,
-    "watchers": 643,
+    "stars": 680,
+    "spd": 139.6,
+    "forks": 147,
+    "watchers": 680,
     "lang": "Python",
     "topics": [],
     "desc_ru": " Ключевые возможности: **自己生成整套资料**：从项目分析、业务理解、申请表信息、操作手册到代码材料，一套流程跑完，不再依赖外部代办整理文档。; **从真实源码抽取代码**：代码材料只来自开发者已有项目，禁止 AI 编造源码，适合对材料真实性敏感的开发者。; **自动处理前 30 页 / 后 30 页规则**：源码足够时按常见鉴别材料要求生成前 30 页和后 30 页；不足 60 页时按规则生成全部代码材料。. Добавляет готовые сценарии для AI-агента — экономит время на написание инструкций с нуля. Написан на Python.",
-    "created_days": 3.9
-  },
-  {
-    "rank": 12,
-    "name": "GENEXIS-AI/chromex",
-    "url": "https://github.com/GENEXIS-AI/chromex",
-    "stars": 756,
-    "spd": 155.1,
-    "forks": 63,
-    "watchers": 756,
-    "lang": "TypeScript",
-    "topics": [],
-    "desc_ru": " Ключевые возможности: Summarize and compare page content, YouTube videos, news articles, research pages, PDFs, and arXiv papers.; Edit or generate images through Codex image workflows with local output handling.; Use voice transcription, live voice mode, page-aware suggestions, custom profiles, and optional Codex skills.. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на TypeScript.",
     "created_days": 4.9
   },
   {
-    "rank": 13,
+    "rank": 12,
     "name": "DanOps-1/Gpt-Agreement-Payment",
     "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-    "stars": 922,
-    "spd": 149.2,
-    "forks": 410,
-    "watchers": 922,
+    "stars": 976,
+    "spd": 139.4,
+    "forks": 431,
+    "watchers": 976,
     "lang": "Python",
     "topics": [
       "adversarial-ml",
@@ -190,32 +177,45 @@
       "chatgpt"
     ],
     "desc_ru": "Инструмент. Ключевые возможности: 一个真实可登录的 PayPal 账号，第一次跑要人肉过一次邮箱 OTP 2FA; 一个出口在 EU / US 的代理（PayPal 锁地区，Stripe 锁国家）; 一个 Cloudflare zone（用于开 catch-all 子域注册邮箱）. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на Python.",
-    "created_days": 6.2
+    "created_days": 7.1
+  },
+  {
+    "rank": 13,
+    "name": "GENEXIS-AI/chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "stars": 775,
+    "spd": 133.0,
+    "forks": 65,
+    "watchers": 775,
+    "lang": "TypeScript",
+    "topics": [],
+    "desc_ru": " Ключевые возможности: Summarize and compare page content, YouTube videos, news articles, research pages, PDFs, and arXiv papers.; Edit or generate images through Codex image workflows with local output handling.; Use voice transcription, live voice mode, page-aware suggestions, custom profiles, and optional Codex skills.. Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов. Написан на TypeScript.",
+    "created_days": 5.8
   },
   {
     "rank": 14,
     "name": "ka-pi-ba-la/AIbijia",
     "url": "https://github.com/ka-pi-ba-la/AIbijia",
-    "stars": 655,
-    "spd": 112.9,
+    "stars": 679,
+    "spd": 100.5,
     "forks": 29,
-    "watchers": 655,
+    "watchers": 679,
     "lang": "—",
     "topics": [],
     "desc_ru": " Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов.",
-    "created_days": 5.8
+    "created_days": 6.8
   },
   {
     "rank": 15,
     "name": "deepseek-ai/awesome-deepseek-agent",
     "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-    "stars": 615,
-    "spd": 101.4,
-    "forks": 59,
-    "watchers": 615,
+    "stars": 651,
+    "spd": 93.0,
+    "forks": 64,
+    "watchers": 651,
     "lang": "—",
     "topics": [],
     "desc_ru": " Помогает создавать красивый дизайн без дизайнера — можно использовать для оформления отчётов, страниц, интерфейсов.",
-    "created_days": 6.1
+    "created_days": 7.0
   }
 ]
